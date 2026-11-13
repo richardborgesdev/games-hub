@@ -1,1 +1,5 @@
 # games-hub
+
+> **📦 This repository has moved to [hubs/games](https://github.com/richardborgesdev/hubs/tree/main/games).**
+>
+> All study hubs are being consolidated into [richardborgesdev/hubs](https://github.com/richardborgesdev/hubs). The content and full commit history of this repository now live there. This repository is archived and read-only.
